@@ -1,0 +1,9 @@
+These are some basic starting points for projects. The basic
+outline is quite similar in each case:
+
+Makefile    build / test / run
+app.??      The main application entry point
+lib/        External and library code 
+test/       Test files
+
+See the individual README's for more..
