@@ -1,0 +1,9 @@
+A basic skeleton for python projects using TDD.
+
+Test & Run:
+  $ make
+  $ make test
+  $ make run
+
+No dependencies. Using native python unittest for testing.
+

@@ -1,0 +1,9 @@
+{
+  "name" : "template",
+  "version" : "0.0.1",
+  "description": "A Node Project Template",
+  "author": "Andy Vanee<1andyvanee@gmail.com>",
+  "dependencies":{
+    "nodeunit": "0.6.4"
+  }
+}

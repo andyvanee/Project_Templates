@@ -1,0 +1,11 @@
+A basic skeleton for node.js projects using TDD.
+
+Setup:
+
+  $ npm install
+
+Test & Run:
+
+  $ make
+  $ make test
+  $ make run
