@@ -1,0 +1,11 @@
+## A TDD template for PHP projects
+
+Setup:
+  
+  ./require.sh
+
+Test & Run:
+
+  $ make
+  $ make run
+  $ make test
